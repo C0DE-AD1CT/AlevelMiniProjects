@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Stack
+comment1.params=arr
+comment1.target=void\ is_full(int[])
+comment2.params=arr
+comment2.target=void\ is_empty(int[])
+comment3.params=arrX
+comment3.target=void\ peek(int[])
+comment4.params=
+comment4.target=Stack()
+numComments=5
