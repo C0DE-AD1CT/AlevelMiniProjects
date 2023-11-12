@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=queue
+comment1.params=arr\ input\ Front
+comment1.target=int[]\ enQueue(int[],\ java.util.Scanner,\ int)
+comment2.params=arr\ input\ End
+comment2.target=int[]\ deQueue(int[],\ java.util.Scanner,\ int)
+comment3.params=var
+comment3.target=void\ outputItemNum(int)
+comment4.params=arr
+comment4.target=int\ queueSize(int[])
+comment5.params=
+comment5.target=queue()
+numComments=6
