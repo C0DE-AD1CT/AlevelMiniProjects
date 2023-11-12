@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FUNCS
+comment1.params=num
+comment1.target=int\ factorial(int)
+comment2.params=num
+comment2.target=int\ sum(int)
+numComments=3
