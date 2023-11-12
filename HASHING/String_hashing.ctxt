@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=String_hashing
+comment1.params=val\ valRange
+comment1.target=int\ HashCode(java.lang.String,\ int)
+comment2.params=
+comment2.target=String_hashing()
+numComments=3
