@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=funcs
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ funcs\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=arr
+comment1.target=int[]\ BubbleSort(int[])
+comment2.params=arr\ Search
+comment2.target=void\ BinarySearch(int[],\ int)
+numComments=3
