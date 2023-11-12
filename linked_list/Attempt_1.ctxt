@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Attempt_1
+comment1.params=listX\ ArrX
+comment1.target=java.util.LinkedList\ appendList(java.util.LinkedList,\ java.lang.String[])
+comment2.params=listX
+comment2.target=void\ outputList(java.util.LinkedList)
+comment3.params=
+comment3.target=Attempt_1()
+numComments=4

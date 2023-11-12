@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=stack
+comment1.params=StackX\ inp
+comment1.target=java.util.LinkedList\ PushSTACK(java.util.LinkedList,\ java.util.Scanner)
+comment2.params=StackX
+comment2.target=java.util.LinkedList\ PopSTACK(java.util.LinkedList)
+comment3.params=StackX
+comment3.target=void\ CollectSTACK(java.util.LinkedList)
+comment4.params=St\ inp
+comment4.target=void\ main(java.util.LinkedList,\ java.util.Scanner)
+comment5.params=
+comment5.target=stack()
+numComments=6

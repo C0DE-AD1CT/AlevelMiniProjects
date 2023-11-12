@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=queue
+comment1.params=QueueX\ input
+comment1.target=java.util.LinkedList\ enqueue(java.util.LinkedList,\ java.util.Scanner)
+comment2.params=QueueX
+comment2.target=java.util.LinkedList\ dequeue(java.util.LinkedList)
+comment3.params=QueueX\ size
+comment3.target=void\ iterateThroughQ(java.util.LinkedList,\ int)
+comment4.params=QueueX
+comment4.target=void\ FrontQ(java.util.LinkedList)
+comment5.params=QueueX
+comment5.target=void\ RearQ(java.util.LinkedList)
+comment6.params=
+comment6.target=queue()
+numComments=7
